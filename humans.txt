@@ -7,8 +7,7 @@
 
 # THANKS
 
-    <name>
-
+ all my students
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
