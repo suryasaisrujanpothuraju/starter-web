@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    srujan      srujan@gmail.com
 
 # THANKS
 
