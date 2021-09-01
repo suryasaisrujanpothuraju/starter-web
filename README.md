@@ -1,5 +1,5 @@
 # Starter Web Repo
-this is simple website.adding a line for rebasinf,more cahnges
+this is simple website.adding a line for rebasinf,more cahnges.update line stash
 ## Introduction
 this is the example
 ## Purpose
